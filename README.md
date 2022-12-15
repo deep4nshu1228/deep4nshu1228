@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deepanshu
-- 👀 I’m interested in Tech magic 
-- 🌱 I’m currently learning how to make magic 
-- 💞️ I’m looking to collaborate on anything that makes tech magic
+- 👋 Hi, I’m @Deepanshu
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning the new and exciting technologies
+- 💞️ I’m looking to collaborate on machine learning, deep learning projects
 - 📫 How to reach me - deepanshuchauhan1207@gmail.com is my e-mail :)
 
 <!---
